@@ -1,6 +1,18 @@
 # Change Log
 
 <a name="unreleased"></a>
+## [0.15.0](https://www.github.com/boson-project/func/compare/v0.14.0...v0.15.0) (2021-05-18)
+
+
+### Features
+
+* add 'kn func emit' command ([#332](https://www.github.com/boson-project/func/issues/332)) ([49594d9](https://www.github.com/boson-project/func/commit/49594d976627c593ff18e42086199225ddcf5130))
+
+
+### Bug Fixes
+
+* minor typos in node template docs ([#351](https://www.github.com/boson-project/func/issues/351)) ([ea0a75a](https://www.github.com/boson-project/func/commit/ea0a75a7ccb6d00b8c859ff4cd311ad33fb8dbc3))
+
 ## [0.14.0](https://www.github.com/boson-project/func/compare/v0.13.0...v0.14.0) (2021-05-12)
 
 
